@@ -1,0 +1,8 @@
+AT/at -> it should display OK
+AT+CMGF = 1 //
+AT+CMGS="mobile number" -> to send a message
+AT+CMGR=num -> to check the received message
+ATD mobilenumber; ->to call to a specific number
+ATA-> to answer the call
+ATH-> to cut the call
+AT+CMGL=number -> to list all the message numbers

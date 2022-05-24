@@ -1,0 +1,1 @@
+cmd_/home/kanaka/jyothi/simplechar/Module.symvers := sed 's/\.ko$$/\.o/' /home/kanaka/jyothi/simplechar/modules.order | scripts/mod/modpost -m -a  -o /home/kanaka/jyothi/simplechar/Module.symvers -e -i Module.symvers   -T -

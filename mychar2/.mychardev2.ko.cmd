@@ -1,0 +1,1 @@
+cmd_/home/sreekanth/Desktop/mychar2/mychardev2.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/sreekanth/Desktop/mychar2/mychardev2.ko /home/sreekanth/Desktop/mychar2/mychardev2.o /home/sreekanth/Desktop/mychar2/mychardev2.mod.o;  true

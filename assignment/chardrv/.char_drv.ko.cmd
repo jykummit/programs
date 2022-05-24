@@ -1,0 +1,1 @@
+cmd_/home/sreekanth/Desktop/assignment/chardrv/char_drv.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/sreekanth/Desktop/assignment/chardrv/char_drv.ko /home/sreekanth/Desktop/assignment/chardrv/char_drv.o /home/sreekanth/Desktop/assignment/chardrv/char_drv.mod.o;  true

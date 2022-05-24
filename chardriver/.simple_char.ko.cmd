@@ -1,0 +1,1 @@
+cmd_/home/kanaka/jyothi/chardriver/simple_char.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/kanaka/jyothi/chardriver/simple_char.ko /home/kanaka/jyothi/chardriver/simple_char.o /home/kanaka/jyothi/chardriver/simple_char.mod.o;  true

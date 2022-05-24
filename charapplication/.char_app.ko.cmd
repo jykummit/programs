@@ -1,0 +1,1 @@
+cmd_/home/kanaka/jyothi/charapplication/char_app.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/kanaka/jyothi/charapplication/char_app.ko /home/kanaka/jyothi/charapplication/char_app.o /home/kanaka/jyothi/charapplication/char_app.mod.o;  true

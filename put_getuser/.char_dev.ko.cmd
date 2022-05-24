@@ -1,0 +1,1 @@
+cmd_/home/sreekanth/Desktop/put_getuser/char_dev.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/sreekanth/Desktop/put_getuser/char_dev.ko /home/sreekanth/Desktop/put_getuser/char_dev.o /home/sreekanth/Desktop/put_getuser/char_dev.mod.o;  true

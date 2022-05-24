@@ -1,2 +1,2 @@
-# programs
-all programms 
+# programming
+practice on linux programming
